@@ -1,0 +1,36 @@
+hello my friends
+here is the file
+I will be using as a text
+for whether my method 
+correctly takes
+all input!
+here's another line
+[continents]
+Africa 2
+Oceania 5
+Asia 7
+North_America 4
+Europe 5
+South_America 6
+
+[countries]
+1 Switzerland 5
+2 France 5
+3 Greece 5
+4 Morocco 1
+5 Brazil 6
+6 Nicaragua 6
+7 Italy 5
+8 Thailand 3
+9 New_Zealand 2
+
+[borders]
+1 2 3 7
+2 1 3 7
+3 1 2 7
+4
+5 6
+6 5
+7 1 2 3
+8
+9
